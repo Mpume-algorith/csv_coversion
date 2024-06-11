@@ -1,0 +1,4 @@
+10 '@FORM' 1 0 Changed
+10 LabelCalc 2 3 Changed
+10 LabelCalc 8 9 Changed
+10 LabelCalc 184 10 Changed

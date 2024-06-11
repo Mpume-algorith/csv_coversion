@@ -1,0 +1,9 @@
+7 '@FORM' 1 0 Changed
+7 cmdButton 1 7 Changed
+7 cmdButton 2 8 Changed
+7 cmdButton 3 5 Changed
+7 cmdButton 4 6 Changed
+7 TextBox 1 1 Changed
+7 TextBox 2 2 Changed
+7 TextBox 3 3 Changed
+7 TrueGrid 1 4 Changed

@@ -1,0 +1,15 @@
+8,'@FORM',1,0,Changed
+8,LabelCalc,6,32,Changed
+10,'@FORM',1,0,Changed
+10,CheckBox,1,20,Changed
+10,LabelCalc,5,69,Changed
+10,LabelCalc,6,72,Changed
+10,LabelCalc,7,0,New
+10,LabelCalc,8,0,New
+10,LabelCalc,9,0,New
+10,LabelCalc,10,0,New
+10,Shape,2,0,Changed
+17,'@FORM',1,0,Changed
+17,cmdButton,2,7,Changed
+17,LabelCalc,4,30,Changed
+17,TrueGrid,1,5,Changed

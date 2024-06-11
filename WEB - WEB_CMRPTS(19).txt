@@ -1,0 +1,6 @@
+38 '@FORM' 1 0 Changed
+38 LabelCalc 1 4 Changed
+38 LabelCalc 2 5 Changed
+38 LabelCalc 3 0 New
+38 ListBox 1 7 Changed
+38 ListBox 2 8 Changed

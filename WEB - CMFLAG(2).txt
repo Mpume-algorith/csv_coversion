@@ -1,0 +1,11 @@
+2 @FORM 1 0 Changed
+2 cmdButton 2 24 Changed
+2 ComboBox 5 11 Changed
+2 ComboBox 6 7 Changed
+2 ComboBox 7 9 Changed
+2 LabelCalc 17 0 New
+2 LabelCalc 18 0 New
+2 LabelCalc 19 0 New
+2 LabelCalc 20 0 New
+2 LabelCalc 21 0 New
+2 TrueGrid 1 26 Changed

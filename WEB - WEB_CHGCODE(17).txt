@@ -1,0 +1,4 @@
+1 '@FORM' 1 0 Changed
+1 LabelCalc 3 0 New
+1 TextBox 7 8 Changed
+1 TextBox 19 7 Changed

@@ -1,0 +1,17 @@
+2,'@FORM',1,0,Changed
+2,cmdButton,1,4,Changed
+2,LabelCalc,1,19,Changed
+2,LabelCalc,2,20,Changed
+2,LabelCalc,3,22,Changed
+2,LabelCalc,4,21,Changed
+2,LabelCalc,5,24,Changed
+2,LabelCalc,6,10,Changed
+2,LabelCalc,7,25,Changed
+2,LabelCalc,8,0,New
+2,TextBox,2,26,Changed
+2,TrueGrid,1,4,Changed
+3,'@FORM',1,0,Changed
+3,cmdButton,2,9,Changed
+3,LabelCalc,7,0,New
+3,TextBox,2,26,Changed
+3,TrueGrid,1,8,Changed

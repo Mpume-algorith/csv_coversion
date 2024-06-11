@@ -1,0 +1,15 @@
+31,TextBox,1,1,Deleted
+31,TextBox,2,2,Deleted
+23,'@FORM',1,0,Changed
+30,'@FORM',1,0,Changed
+30,TrueGrid,1,2,Changed
+31,'@FORM',1,0,Changed
+31,cmdButton,1,4,Changed
+31,cmdButton,3,3,Changed
+31,cmdButton,4,0,New
+31,cmdButton,5,0,New
+31,LabelCalc,2,23,Changed
+31,LabelCalc,3,24,Changed
+31,LabelCalc,4,0,New
+31,LabelCalc,5,0,New
+31,LabelCalc,6,0,New
